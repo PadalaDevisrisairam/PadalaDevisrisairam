@@ -1,7 +1,5 @@
 ## Hello , i am Devi Sri Sai Ram Padala 👋
 
-i am passionate about software engineering 
-
 # 💫 About Me:
 Aspiring Software Engineer with strong foundations in data structures, algorithms, and object-oriented programming, and hands-on<br>experience in building scalable web applications and backend systems. Seeking an opportunity to contribute to high-quality software<br>solutions while continuously learning and growing in a challenging engineering environment.<br>
 
